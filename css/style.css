@@ -45,6 +45,19 @@
     margin-top: 24px;
 } */
 
-#bannerr{
-        background-color: blue;   
+#sewa{
+        background-color: blue;
+        position: relative;
+        bottom: 50%;
+        top: 50%;
+        right: 50%;
+        border: 50%;   
+        margin-bottom: 10px;
+}
+
+.banner{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
