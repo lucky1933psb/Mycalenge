@@ -1,0 +1,50 @@
+/* #carouselControls{
+    padding-top: 10px;
+    padding-left: 180px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    border-color:#F1F3FF;
+    border-radius: 8px;
+    margin-top: 50px;
+    
+}
+
+
+#buttonCarouselPrevNext {
+    color: #5CB85F;
+    border-radius: 50%;
+    margin-top: 30px;
+    justify-content: center;
+    padding-left: 100%;
+} */
+#Testimonial{
+    border: 50px;
+}
+/* #sewa {
+    background: #0D28A6;
+    border-radius: 13px;
+    padding: 16px;
+    margin-top: 34px;
+}
+
+#sewa h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+}
+
+#sewa p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+} */
+
+/* #sewa button {
+    background: #5CB85F;
+    border-radius: 2px;
+    margin-top: 24px;
+} */
+
+#bannerr{
+        background-color: blue;   
+}
