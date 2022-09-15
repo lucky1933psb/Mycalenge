@@ -63,5 +63,5 @@
 }
 
 .napbar{
-    display:flex;
+    position: fixed;;
 }
